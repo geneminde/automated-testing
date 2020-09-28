@@ -26,6 +26,9 @@ describe Card do
     it "to_s returns a readable String value logically for values 2-10" do
       # Test to ensure that to_s works for cards values 2-10
       # for example:  "2 of diamonds"
+
+      
+
     end
 
     it "to_s returns a readable String value for Ace, Jack, Queen, King" do
